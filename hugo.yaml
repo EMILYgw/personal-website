@@ -1,0 +1,44 @@
+baseURL: ""
+languageCode: en-us
+title: My Portfolio
+theme: PaperMod
+
+params:
+  profileMode:
+    enabled: true
+    title: "Emily Di Prizio" # optional default will be site title
+    subtitle: "My Personal Website"
+    imageUrl: img/photo_menu.PNG # optional
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 400 # custom size
+    imageHeight: 400 # custom size
+    buttons:
+      - name: About Me
+        url: "/aboutme/"
+      - name: Posts
+        url: "/posts/"
+
+  socialIcons: # optional
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/emily-di-prizio-952aa9222/"
+    - name: "github"
+      url: "https://github.com/EMILYgw"
+
+menu:
+  main: 
+  - identifier: aboutme
+    name: About Me
+    url: /aboutme/ 
+    weight: 10
+  - identifier: Experience
+    name: Experience
+    url: /Experience/ 
+    weight: 20
+  - identifier: projects
+    name: Projects
+    url: /projects/ 
+    weight: 30
+  - identifier: blog
+    name: Blog
+    url: /blog/ 
+    weight: 40
