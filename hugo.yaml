@@ -12,8 +12,8 @@ params:
     subtitle: " "
     imageUrl: img/photo_menu.PNG # optional
     imageTitle: "Emily Di Prizio profile picture" # optional
-    imageWidth: 300 # custom size
-    imageHeight: 350 # custom size
+    imageWidth: 200 # custom size
+    imageHeight: 250 # custom size
     buttons:
       - name: About Me
         url: "/aboutme/"
