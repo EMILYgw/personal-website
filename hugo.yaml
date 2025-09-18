@@ -3,6 +3,8 @@ languageCode: en-us
 title: Emily Di Prizio
 theme: PaperMod
 
+
+
 params:
   profileMode:
     enabled: true
@@ -21,7 +23,7 @@ params:
         url: "/projects/"
       - name: Blog
         url: "/blog/"
-    
+  ShowBreadcrumbs: true
       
 
   socialIcons: # optional
