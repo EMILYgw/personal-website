@@ -1,28 +1,31 @@
 ---
-title: "Il Rifugio dei Lettori"
+title: "The Readers' Refuge"
 layout: "archive"
 url: "/projects/Project2/"
 summary: "An interactive website about literature, built with HTML, CSS, and JavaScript as part of a university assignment."
-date: 2023-12-12
+date: 2023-12-18
 tags: ["university"]
 ---
 
 ## Project Overview
 
-*Il Rifugio dei Lettori* is an interactive and accessible website created using **HTML**, **CSS**, and **JavaScript**, developed as part of a university assignment. The website is entirely in Italian and is dedicated to literature enthusiasts.
+*The Readers' Refuge* is an interactive and accessible website created using **HTML**, **CSS**, and **JavaScript**, developed as part of a university assignment. The website is entirely in Italian and is dedicated to literature enthusiasts.
 
 The site includes multiple themed sections:
 
-- **Recensioni** – user-written book reviews  
-- **Notizie** – a curated feed of literary news  
+- **Reviews** – user-written book reviews  
+- **News** – a curated feed of literary updates  
 - **Quiz & Puzzle** – interactive games for book lovers  
-- **Anagrammi** – a game to guess book titles from scrambled letters  
-- **Info** – a section about the author and project purpose
+- **Anagrams** – a game to guess book titles from scrambled letters  
+- **Info** – a section about the author and the purpose of the project
 
-Images and external content (e.g., news) are credited appropriately, and the website follows W3C standards for accessibility and validation.
+Images and external content (e.g., news feeds) are properly credited, and the website adheres to W3C standards for accessibility and validation.
 
-This project highlights the integration of static web technologies to create a cohesive, multi-page literary experience.
+This project showcases the integration of static web technologies to create a cohesive, multi-page literary experience.
 
 ---
 
-If you'd like to preview or test the site locally, simply open the `...` file in a browser.
+## Source Code
+
+You can find the complete source code for this project on GitHub:  
+[GitHub Repository](https://github.com/EMILYgw/readers-refuge-university-project)

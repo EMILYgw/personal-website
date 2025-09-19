@@ -1,5 +1,7 @@
 ---
 title: "My personal Book Club"
-url: "/blog/"
+layout: "blog"
+url: "/blog/" 
 ---
+
 

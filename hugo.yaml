@@ -24,6 +24,10 @@ params:
       - name: Blog
         url: "/blog/"
   ShowBreadcrumbs: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  mainSections: ["projects","blog"] 
+
       
 
   socialIcons: # optional
