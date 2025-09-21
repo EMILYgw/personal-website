@@ -65,4 +65,4 @@ Thanks for stopping by and getting to know me a little better! Feel free to reac
 
 ---
 
-Thanks for stopping by my site! 😊
+Thanks for stopping by my site!
