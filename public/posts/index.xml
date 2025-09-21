@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Emily Di Prizio</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Emily Di Prizio</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Sep 2025 11:40:08 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Wed, 17 Sep 2025 11:40:08 +0200</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description>&lt;h1 id=&#34;my-portfolio&#34;&gt;My Portfolio&lt;/h1&gt;
+&lt;h2 id=&#34;my-first-website-using-hugo&#34;&gt;My first website using Hugo&lt;/h2&gt;
+&lt;p&gt;This is my first website and so on&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
