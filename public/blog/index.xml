@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My personal Book Club on Emily Di Prizio</title>
-    <link>emilygw.github.io/personal-website/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in My personal Book Club on Emily Di Prizio</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
-    <atom:link href="emilygw.github.io/personal-website/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Crow by James O&#39;Barr</title>
-      <link>emilygw.github.io/personal-website/blog/blog2/</link>
+      <link>/blog/blog2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>emilygw.github.io/personal-website/blog/blog2/</guid>
+      <guid>/blog/blog2/</guid>
       <description>A personal and heartfelt review of The Crow, a graphic novel about love, revenge, and pain.</description>
     </item>
     <item>
       <title>The Halloween Tree by Ray Bradbury</title>
-      <link>emilygw.github.io/personal-website/blog/blog1/</link>
+      <link>/blog/blog1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>emilygw.github.io/personal-website/blog/blog1/</guid>
+      <guid>/blog/blog1/</guid>
       <description>A deep and poetic reflection on life, death, and the origins of Halloween through a timeless adventure.</description>
     </item>
     <item>
       <title>Yesterday by Agota Kristof</title>
-      <link>emilygw.github.io/personal-website/blog/blog3/</link>
+      <link>/blog/blog3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>emilygw.github.io/personal-website/blog/blog3/</guid>
+      <guid>/blog/blog3/</guid>
       <description>A raw and poignant love story from the haunting world of Agota Kristof.</description>
     </item>
   </channel>
