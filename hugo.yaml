@@ -10,7 +10,7 @@ params:
     enabled: true
     title: "Emily Di Prizio" # optional default will be site title
     subtitle: " "
-    imageUrl: static/img/photo_menu.PNG # optional
+    imageUrl: img/photo_menu.jpg # optional
     imageTitle: "Emily Di Prizio profile picture" # optional
     imageWidth: 200 # custom size
     imageHeight: 250 # custom size
