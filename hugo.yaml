@@ -15,7 +15,7 @@ params:
     imageWidth: 200 # custom size
     imageHeight: 250 # custom size
     buttons:
-      - name: 📄 Download CV
+      - name: Download CV
         url: "/file/EmilyDiPrizio_cv.pdf"
         params:
           external: true
