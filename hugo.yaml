@@ -19,7 +19,6 @@ params:
         url: "/file/EmilyDiPrizio_cv.pdf"
         params:
           external: true
-    buttons:
       - name: About Me
         url: "/aboutme/"
       - name: Experience
