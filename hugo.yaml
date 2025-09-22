@@ -22,7 +22,7 @@ params:
       - name: About Me
         url: "/aboutme/"
       - name: Experience
-        url: "/Experience/"
+        url: "/experience/"
       - name: Projects
         url: "/projects/"
       - name: Blog
