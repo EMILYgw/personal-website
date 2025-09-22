@@ -23,6 +23,12 @@ params:
         url: "/projects/"
       - name: Blog
         url: "/blog/"
+      - name: Download CV
+        url: "/file/EmilyDiPrizio_cv.pdf"
+        weight: 100
+        Optional: open in new tab
+        params:
+          external: true
   ShowBreadcrumbs: true
   ShowShareButtons: true
   ShowPostNavLinks: true
