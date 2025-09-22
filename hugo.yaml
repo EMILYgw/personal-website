@@ -15,6 +15,11 @@ params:
     imageWidth: 200 # custom size
     imageHeight: 250 # custom size
     buttons:
+      - name: 📄 Download CV
+        url: "/file/EmilyDiPrizio_cv.pdf"
+        params:
+          external: true
+    buttons:
       - name: About Me
         url: "/aboutme/"
       - name: Experience
@@ -23,12 +28,6 @@ params:
         url: "/projects/"
       - name: Blog
         url: "/blog/"
-      - name: Download CV
-        url: "/file/EmilyDiPrizio_cv.pdf"
-        weight: 100
-        Optional: open in new tab
-        params:
-          external: true
   ShowBreadcrumbs: true
   ShowShareButtons: true
   ShowPostNavLinks: true
