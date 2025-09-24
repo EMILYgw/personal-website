@@ -62,7 +62,7 @@ Thanks for stopping by and getting to know me a little better! Feel free to reac
 - [LinkedIn](https://www.linkedin.com/in/emily-di-prizio-952aa9222/)
 - [GitHub](https://github.com/EMILYgw)
 - [email](mailto:diprizioemily@gmail.com)
-- [CV](https://emilydiprizio.com/file/EmilyDiPrizio_cv.pdf)
+- [CV](https://emilydiprizio.com/file/EmilyDiPrizio_CV.pdf)
 
 ---
 
