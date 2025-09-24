@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My personal Book Club on Emily Di Prizio</title>
-    <link>/blog/</link>
+    <link>//localhost:1313/blog/</link>
     <description>Recent content in My personal Book Club on Emily Di Prizio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Crow by James O&#39;Barr</title>
-      <link>/blog/blog2/</link>
+      <link>//localhost:1313/blog/blog2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/blog/blog2/</guid>
+      <guid>//localhost:1313/blog/blog2/</guid>
       <description>A personal and heartfelt review of The Crow, a graphic novel about love, revenge, and pain.</description>
     </item>
     <item>
       <title>The Halloween Tree by Ray Bradbury</title>
-      <link>/blog/blog1/</link>
+      <link>//localhost:1313/blog/blog1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/blog/blog1/</guid>
+      <guid>//localhost:1313/blog/blog1/</guid>
       <description>A deep and poetic reflection on life, death, and the origins of Halloween through a timeless adventure.</description>
     </item>
     <item>
       <title>Yesterday by Agota Kristof</title>
-      <link>/blog/blog3/</link>
+      <link>//localhost:1313/blog/blog3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/blog/blog3/</guid>
+      <guid>//localhost:1313/blog/blog3/</guid>
       <description>A raw and poignant love story from the haunting world of Agota Kristof.</description>
     </item>
   </channel>

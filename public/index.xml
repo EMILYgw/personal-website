@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emily Di Prizio</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Emily Di Prizio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cross-Genre Gender Prediction in Italian</title>
-      <link>/projects/Project1/</link>
+      <link>//localhost:1313/projects/Project1/</link>
       <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/projects/Project1/</guid>
+      <guid>//localhost:1313/projects/Project1/</guid>
       <description>Implementation and evaluation of multiple classifiers for Cross-Genre Gender Prediction in Italian (EVALITA task 2018).</description>
     </item>
     <item>
       <title>The Readers&#39; Refuge</title>
-      <link>/projects/Project2/</link>
+      <link>//localhost:1313/projects/Project2/</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/projects/Project2/</guid>
+      <guid>//localhost:1313/projects/Project2/</guid>
       <description>An interactive website about literature, built with HTML, CSS, and JavaScript as part of a university assignment.</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>/aboutme/</link>
+      <link>//localhost:1313/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/aboutme/</guid>
+      <guid>//localhost:1313/aboutme/</guid>
       <description>About Me</description>
     </item>
     <item>
       <title>Experience</title>
-      <link>/experience/</link>
+      <link>//localhost:1313/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/experience/</guid>
+      <guid>//localhost:1313/experience/</guid>
       <description>Experience</description>
     </item>
     <item>
       <title>The Crow by James O&#39;Barr</title>
-      <link>/blog/blog2/</link>
+      <link>//localhost:1313/blog/blog2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/blog/blog2/</guid>
+      <guid>//localhost:1313/blog/blog2/</guid>
       <description>A personal and heartfelt review of The Crow, a graphic novel about love, revenge, and pain.</description>
     </item>
     <item>
       <title>The Halloween Tree by Ray Bradbury</title>
-      <link>/blog/blog1/</link>
+      <link>//localhost:1313/blog/blog1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/blog/blog1/</guid>
+      <guid>//localhost:1313/blog/blog1/</guid>
       <description>A deep and poetic reflection on life, death, and the origins of Halloween through a timeless adventure.</description>
     </item>
     <item>
       <title>Yesterday by Agota Kristof</title>
-      <link>/blog/blog3/</link>
+      <link>//localhost:1313/blog/blog3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/blog/blog3/</guid>
+      <guid>//localhost:1313/blog/blog3/</guid>
       <description>A raw and poignant love story from the haunting world of Agota Kristof.</description>
     </item>
   </channel>
