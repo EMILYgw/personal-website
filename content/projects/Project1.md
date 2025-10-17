@@ -35,7 +35,7 @@ To replicate or extend this work, the following external datasets and tools are 
   [Training set](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fmalvinanissim%2Fgxg%2Ftree%2Fmaster%2FData%2FTraining&sa=D&sntz=1&usg=AOvVaw1xPq17-yBSfRslm6fZtsWA)
 
 - **Profiling UD** (Universal Dependencies for Profiling)  
-  [Profiling UD GitHub](http://www.italianlp.it/demo/profiling-ud/)
+  [Profiling UD](http://www.italianlp.it/demo/profiling-ud/)
 
 - **Pre-trained Word Embeddings (ItWaC 128)**  
   [ItWaC Embeddings](www.italianlp.it/t2k-resources/it/w2v/itwac-clitics/itwac128.sqlite)
