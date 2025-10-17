@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/projects/Project1/</loc>
+    <loc>/projects/Project1/</loc>
     <lastmod>2024-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2024-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2024-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/university/</loc>
+    <loc>/tags/university/</loc>
     <lastmod>2024-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/Project2/</loc>
+    <loc>/projects/Project2/</loc>
     <lastmod>2023-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/aboutme/</loc>
+    <loc>/aboutme/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/experience/</loc>
+    <loc>/experience/</loc>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>/blog/</loc>
   </url><url>
-    <loc>//localhost:1313/blog/blog2/</loc>
+    <loc>/blog/blog2/</loc>
   </url><url>
-    <loc>//localhost:1313/blog/blog1/</loc>
+    <loc>/blog/blog1/</loc>
   </url><url>
-    <loc>//localhost:1313/blog/blog3/</loc>
+    <loc>/blog/blog3/</loc>
   </url>
 </urlset>
