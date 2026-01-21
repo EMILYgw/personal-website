@@ -7,6 +7,13 @@ summary: Experience
 
 ## 💼 Professional Experience
 
+- **AI Developer Intern** - Mative
+  *Avellino, Italy* - **Nov 2025 - Present**
+  • Work on **SynapsisML**, an internal platform for building AI chatbots through a configurable interface.  
+  • Support the management of multiple data source types, including uploading, organizing, and preparing user-provided files for chatbot usage.  
+  • Assist in testing and validating chatbot behavior to ensure accurate and data-consistent responses.
+
+
 - **LinkedIn Operator** — INbuilder  
   *Remote* — **Jul 2023 – Present**  
   • Manage LinkedIn profiles for B2B clients by performing targeted outreach activities including lead identification, connection management, and ongoing engagement to support strategic business development and relationship building.

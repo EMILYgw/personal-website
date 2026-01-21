@@ -16,7 +16,7 @@ params:
     imageHeight: 250 # custom size
     buttons:
       - name: Download CV
-        url: "/file/EmilyDiPrizio_CV.pdf"
+        url: "/file/DiPrizioEmily_CV.pdf"
       - name: About Me
         url: "/aboutme/"
       - name: Experience
