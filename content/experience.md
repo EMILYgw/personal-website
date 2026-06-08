@@ -29,8 +29,8 @@ summary: Experience
   *Sept 2023 – June 2026*  
   GPA: 29.23 / 30
   Final Grade: 110/110 cum laude
-  Thesis: *Corporate Conversational Systems Based on Large Language Models: Comparison Between RAG in the Synapsis ML Platform and Fine-Tuning with LoRA*
-  📄 [Read Thesis](/static/file/Tesi_DiPrizioEmily.pdf)
+  Thesis: *Corporate Conversational Systems Based on Large Language Models: Comparison Between RAG in the Synapsis ML Platform and Fine-Tuning with LoRA* 
+  📄 [Read Thesis](/file/Tesi_DiPrizioEmily.pdf)
 
 - **Bachelor’s Degree in Humanities and Education** — Pegaso Online University  
   *Jan 2020 – Nov 2023*  
